@@ -22,7 +22,7 @@ langchain-groq = "^0.1.6"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.5.1"
-jupyterlab = "^4.2.3"
+jupyterlab = "^4.2.5"
 watchdog = "^4.0.1"
 
 [build-system]
